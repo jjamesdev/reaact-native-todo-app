@@ -10,6 +10,6 @@ npm install
 ```
 
 ## Ejecutar proyecto
-```bas`
+```bash
 npx expo start
 ```
